@@ -13,7 +13,7 @@ Danielle Osdon
 This project is an application that uses AJAX, JSON, and API to relay movie information from a movie database.
 
 ### View Project:
-https://dfo16.github.io/lesson8_ajax/
+https://dfo16.github.io/Lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. I learned that JSON stands for JavaScript Object Notation.
